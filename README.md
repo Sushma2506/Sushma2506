@@ -5,7 +5,7 @@
 </picture>
 
 ### Hi there 👋 here you can find about me 
- This is Sushma... im from India .🔭 I used to work on automation project.🌱 I’m currently learning Advanced computer Science masters level.🤔 I’m looking for help with github hidden techniques.💬 Ask me about automation.📫 you can reach me on 660-528-9024!!⚡ you always find me eating...
+ This is Sushma... im from India .🔭 I used to work on automation project.🌱 I’m currently learning Advanced computer Science masters level.🤔 I’m looking for help with github hidden techniques.💬 Ask me about automation.📫 you can reach me on 660-528-9024!!⚡ you always find me eating, traveling and watching series...
 
 <!--
 **Sushma2506/Sushma2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
