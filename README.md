@@ -5,13 +5,12 @@
 </picture>
 
 ### Hi there 👋 here you can find about me 
- This is Sushma... im from India 
+ This is Sushma... 
 - 🌱 Earned a Master’s degree in Computer and Information Sciences  
-- 💻 Working with **Java** and **Python**  
-- 🔐 Experience with **Identity & Access Management (IAM)**  
+- 💻 Working with **Java** and **Python**
 - 🛠️ Hands-on experience with scripting and automation 
 - 🤝 Comfortable working with Git, GitHub, and team-based workflows  
- you can reach me on 660-528-9024!!⚡ you always find me traveling, watching series...
+- ⚡ you always find me traveling, watching series...
 
 <!--
 **Sushma2506/Sushma2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
