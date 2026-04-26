@@ -50,9 +50,4 @@ This is [Your Name]...
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C8B99A&center=true&vCenter=true&width=550&lines=IAM+Engineer+%7C+AI+Builder;CyberArk+%7C+Okta+%7C+SailPoint+%7C+Saviynt;RAG+Systems+%7C+MCP+Tools+%7C+AI+Agents;Identity+Security+meets+Intelligent+Automation)](https://git.io/typing-svg)
-
-</div>
 
