@@ -43,10 +43,9 @@ This is [Your Name]...
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-c8b99a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-s-644224353)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-c8b99a?style=flat-square&logo=gmail&logoColor=white)](mailto:iamsushma38@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1e?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=c8b99a&label=Profile+Views)
 
 </div>
 
