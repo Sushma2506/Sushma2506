@@ -1,4 +1,8 @@
-**Sushma2506/Sushma2506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/122947550/216118306-ae60d8ea-3238-4a2a-9a97-3f4c120fdb98.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/122947550/216122417-5e1f9a00-64bd-4c38-9c56-7585e7cb182f.png">
+ <img alt="Hey!!" src="https://user-images.githubusercontent.com/122947550/216118008-39b4a195-ad20-4108-8f11-a89dcab386e3.png">
+</picture>
 
 <div align="center">
 
@@ -10,7 +14,7 @@
 
 ### Hi there 👋 here you can find about me
 
-This is [Your Name]...
+This is Sushma...
 
 - 🎓 Completed my education from **IIM**
 - 🔐 Working with **CyberArk, Okta, SailPoint IIQ, Saviynt** and **Oracle OIM**
@@ -37,32 +41,7 @@ This is [Your Name]...
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&bg_color=0d1117&title_color=c8b99a&icon_color=8fa8c4&text_color=9b9b96&border_color=21262d&count_private=true&hide_border=false" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark&bg_color=0d1117&title_color=c8b99a&text_color=9b9b96&border_color=21262d&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourgithubusername&theme=dark&background=0d1117&border=21262d&ring=c8b99a&fire=c8b99a&currStreakLabel=c8b99a&sideLabels=9b9b96&dates=9b9b96)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=darkhub&no-frame=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+(https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-c8b99a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1e?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=c8b99a&label=Profile+Views)
