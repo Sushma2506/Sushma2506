@@ -14,7 +14,7 @@
 
 ### Hi there 👋 here you can find about me
 
-This is Sushma...
+This is [Your Name]...
 
 - 🎓 Completed my education from **IIM**
 - 🔐 Working with **CyberArk, Okta, SailPoint IIQ, Saviynt** and **Oracle OIM**
@@ -41,9 +41,18 @@ This is Sushma...
 
 ---
 
-(https://linkedin.com/in/yourprofile)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-c8b99a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1e?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&style=flat-square&color=c8b99a&label=Profile+Views)
 
 </div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C8B99A&center=true&vCenter=true&width=550&lines=IAM+Engineer+%7C+AI+Builder;CyberArk+%7C+Okta+%7C+SailPoint+%7C+Saviynt;RAG+Systems+%7C+MCP+Tools+%7C+AI+Agents;Identity+Security+meets+Intelligent+Automation)](https://git.io/typing-svg)
+
+</div>
+
