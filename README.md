@@ -34,10 +34,10 @@ This is Sushma...
 
 ### 🤖 AI Stack
 
-![RAG](https://img.shields.io/badge/RAG-Systems-27500A?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Tooling-1a1a1e?style=flat-square&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI-Agents-185FA5?style=flat-square&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM-Integration-633806?style=flat-square&logoColor=white)
+[![RAG](https://img.shields.io/badge/RAG-Systems-27500A?style=flat-square&logoColor=white)](https://github.com/Sushma2506/PDF_RAG_Metadata)
+[![MCP](https://img.shields.io/badge/MCP-Tooling-1a1a1e?style=flat-square&logoColor=white)](https://github.com/Sushma2506/Ollama-File-System)
+[![AI Agents](https://img.shields.io/badge/AI-Agents-185FA5?style=flat-square&logoColor=white)](https://github.com/Sushma2506/Research-Agent)
+[![LLMs](https://img.shields.io/badge/LLM-Integration-633806?style=flat-square&logoColor=white)](https://github.com/Sushma2506/LiteLLM)
 
 ---
 
