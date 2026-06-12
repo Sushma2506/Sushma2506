@@ -14,9 +14,9 @@
 
 ### Hi there 👋 here you can find about me
 
-This is [Your Name]...
+This is Sushma...
 
-- 🎓 Completed my education from **IIM**
+- 🎓 Completed my **Masters** from **Southern Arkansas University** in **Computers and Information Sciences**
 - 🔐 Working with **CyberArk, Okta, SailPoint IIQ, Saviynt** and **Oracle OIM**
 - 🤖 Building **RAG systems, MCP tools** and **AI Agents**
 - 🛠️ Hands-on with identity governance, access management, and automation
@@ -45,7 +45,7 @@ This is [Your Name]...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-s-644224353)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-c8b99a?style=flat-square&logo=gmail&logoColor=white)](mailto:iamsushma38@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1e?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1a1a1e?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-weld-pi-62.vercel.app/)
 
 </div>
 
